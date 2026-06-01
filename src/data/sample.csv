@@ -1,0 +1,2 @@
+date,spot,spotChange,future,futureChange,oiChange,fiiLongs,fiiShorts,daysToExpiry
+Today,25000,-12,24831,-169,6,70000,110000,18
